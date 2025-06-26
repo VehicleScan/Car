@@ -213,15 +213,15 @@ public final class FakeVhalConfigParser {
             Map.entry("VENDOR_EXTENSION_RPM_UDS_PROPERTY",
                 TestVendorProperty.VENDOR_EXTENSION_RPM_UDS_PROPERTY),
             Map.entry("VENDOR_EXTENSION_SPEED_UDS_PROPERTY",
-                TestVendorProperty.VENDOR_EXTENSION_SPEED_UDS_PROPERTY)
+                TestVendorProperty.VENDOR_EXTENSION_SPEED_UDS_PROPERTY),
             Map.entry("VENDOR_EXTENSION_OILTEMP_UDS_PROPERTY",
                 TestVendorProperty.VENDOR_EXTENSION_OILTEMP_UDS_PROPERTY),
             Map.entry("VENDOR_EXTENSION_AIRFLOW_UDS_PROPERTY",
-                TestVendorProperty.VENDOR_EXTENSION_AIRFLOW_UDS_PROPERTY)
-            Map.entry("VENDOR_EXTENSION_TIREPRES_UDS_PROPERT",
-                TestVendorProperty.VENDOR_EXTENSION_TIREPRES_UDS_PROPERT),
+                TestVendorProperty.VENDOR_EXTENSION_AIRFLOW_UDS_PROPERTY),
+            Map.entry("VENDOR_EXTENSION_TIREPRES_UDS_PROPERTY",
+                TestVendorProperty.VENDOR_EXTENSION_TIREPRES_UDS_PROPERTY),
             Map.entry("VENDOR_EXTENSION_STRING_DTC_PROPERTY",
-                TestVendorProperty.VENDOR_EXTENSION_STRING_DTC_PROPERTY)    
+                TestVendorProperty.VENDOR_EXTENSION_STRING_DTC_PROPERTY)
     );
 
     /**
