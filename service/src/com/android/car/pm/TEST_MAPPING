@@ -1,0 +1,23 @@
+{
+  "auto-postsubmit": [
+    {
+      "name": "CarServicePmTest"
+    },
+    {
+      "name": "CarServicePmUnitTest"
+    },
+    {
+      "name": "AndroidCarApiTest",
+      "options": [
+        {
+          "include-filter": "android.car.apitest.CarPackageManagerTest"
+        }
+      ]
+    }
+  ],
+  "auto-presubmit": [
+    {
+      "name": "CarServicePmUnitTest"
+    }
+  ]
+}
