@@ -221,7 +221,9 @@ public final class FakeVhalConfigParser {
             Map.entry("VENDOR_EXTENSION_TIREPRES_UDS_PROPERTY",
                 TestVendorProperty.VENDOR_EXTENSION_TIREPRES_UDS_PROPERTY),
             Map.entry("VENDOR_EXTENSION_STRING_DTC_PROPERTY",
-                TestVendorProperty.VENDOR_EXTENSION_STRING_DTC_PROPERTY)
+                TestVendorProperty.VENDOR_EXTENSION_STRING_DTC_PROPERTY),
+                Map.entry("VENDOR_EXTENSION_INIT_UDS_PROPERTY",
+                TestVendorProperty.VENDOR_EXTENSION_INIT_UDS_PROPERTY)
     );
 
     /**
